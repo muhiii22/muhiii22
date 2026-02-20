@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hey there, I am Muhi 🤩 height="20" </p>
+<p align="left">Hey there, I am Muhi 🤩</p>
 
 ###
 
